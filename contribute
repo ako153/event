@@ -1,0 +1,162 @@
+<!doctype html>
+<html>   
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<!--前ページから-->
+    <meta content="MCS,MediaCreativeSupporter,Media,Creative,Supporter,メディアクリエイティブサポーター,関西大学,関大,総合情報,総情,映像,映画,">  
+    <meta name="description" content="Media Creative Supporter(MCS)は、
+    関西大学高槻キャンパス総合情報学部にて活動しています。
+    総合情報学部におけるコンテンツの制作サポートから創造・自己発信までできるスタッフの集合体を目指し、日々活動しているボランティア団体です。">  
+    <meta name="robots" content="index,follow">  
+    <meta http-equiv="pragma" content="no-cache">  
+    <link rel="shortcut icon" href="./favicon.ico"> 
+    <link rel="icon" href="./favicon.ico">
+    <!--ここまで前ページから-->
+    <title>EVENT -Media Creative Supporter(MCS)公式サイト-</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<!--ここからヘッダー-->
+<div id="header-fixed">
+    <div id="header-bk">
+        <div id="header">
+            <div id="header-content">
+                <a href="index.html"><img src="mcs.png" alt="mcs" hspace="15px" vspace="4px"></a>
+            </div><!--div id="headder-content"-->
+            <div id="header-content2">
+                <a href="about.html"><img src="ABOUT.png" alt="about" onmouseover="this.src='ABOUT-iro.png'" onmouseout="this.src='ABOUT.png'" hspace="15px" vspace="4px"　height="100"></a>
+                <img src="hedda.png" alt="/" hspace="0px" vspace="4px">
+                <a href="event.html"><img src="EVENT.png" alt="event" onmouseover="this.src='EVENT-iro.png'" onmouseout="this.src='EVENT.png'" hspace="15px" vspace="4px"></a>
+                <img src="hedda.png" alt="/" hspace="0px" vspace="4px">
+                <a href="contents.html"><img src="CONTENTS.png" alt="contents" onmouseover="this.src='CONTENTS-iro.png'" onmouseout="this.src='CONTENTS.png'" hspace="15px" vspace="4px"></a>
+                <img src="hedda.png" alt="/" hspace="0px" vspace="4px">
+                <a href="./lblog/" target="_blank"><img src="BLOG.png" alt="blog" onmouseover="this.src='BLOG-iro.png'" onmouseout="this.src='BLOG.png'" hspace="15px" vspace="4px"></a>
+                <img src="hedda.png" alt="/" hspace="0px" vspace="4px">
+                <a href="contact.html"><img src="CONTACT.png" alt="contact" onmouseover="this.src='CONTACT-iro.png'" onmouseout="this.src='CONTACT.png'" hspace="15px" vspace="4px"></a>
+                <img src="hedda.png" alt="/" hspace="0px" vspace="4px">
+                <a href="link.html"><img src="LINK.png" alt="link" onmouseover="this.src='LINK-iro.png'" onmouseout="this.src='LINK.png'" hspace="15px" vspace="4px"></a>
+                <a href="https://twitter.com/MCS_kutc" target="_blank"><img src="TWITTER.png" alt="twitter" vspace="0px" height="25"></a>
+                <a href="https://www.facebook.com/mcs.kutc" target="_blank"><img src="FACEBOOK.png" alt="facebook" vspace="0px" height="25"></a>
+            </div><!--div id="headder-content2"-->
+        </div><!--div id="headder"-->
+    </div><!--headder-bk-->
+</div><!--headder-fixed--> 
+<!--ヘッダー終わり-->
+    
+    
+<div id="mainback">
+    <div id="mainwrap">
+        
+        <div align="center">
+            <br>
+            <br>
+            <img src="t-EVENT.png" alt="event" vspace="30px"  >
+            <br>
+            <br>
+            <p style="font-size:20px; line-height:30px">
+                MCSでは関西大学高槻キャンパスを中心に<br>
+                スタジオイベントや上映会などの<br>
+                さまざまなイベントを行っています。<br>
+            </p>
+        </div><!--div align="center"-->
+        <br>
+        <br>
+        <br>
+        <br>
+        <div id="leftspace">
+            <img src="yajirusi.png" alt="yajirushi" /><font size="+4">高槻キャンパス祭</font>
+            <br />
+            <br />
+            <h1><img class="midashi-img" src="aka.png" width="42px" alt="aka"  vspace="40px">相羽博士の公開実験 -MOVE TO THE TV-</h1>
+            <div class="content">
+                <div class="detail">
+                    <div class="intext">
+                        <p>
+                        開催日時:2015年5月31日<br>
+                        午前の部:11:00～<br>
+                        午後の部:14:00～<br>
+                        <a class="links" href="./cf2015/index.html">特設サイトはこちら</a><br>
+                        <br>
+                        <br>
+                        このイベントは終了いたしました。ご来場ありがとうございました！
+                    </div><!--/intext-->
+                </div><!--/detail-->
+                <div class="poster">
+                    <img src="cf-poster.png" alt="campus-festival" width="250px">
+                </div><!--/poster-->
+                <div class="clear"></div>
+            </div><!--/content-->
+            <br>
+            <br>
+			<br>
+            <img src="yajirusi.png" alt="yajirushi"><img src="gakunaihousou.png" alt="gakunaihousou"><br>
+            <h1><img class="midashi-img" src="aomidori.png" width="42px" alt="aomidori" vspace="40px">&nbsp;のんじゃんるTV</h1>
+            <div class="content">
+                <div class="detail">
+                    <div class="intext">                    
+                        <p>
+                        放送時間:12:20～12:50<br>
+                        放送予定日:4/14,4/28,5/12,5/19,6/2,6/16,6/30,7/14<br>
+                        ※10/23,11/6は木曜日、その他の放送日は火曜日放送となっております。<br>
+                        放送場所:A棟1Fりそな横モニター・E棟B1Fコミュニティルーム<br>
+                        <br>
+                        「これで見てくれなかったらやめます」<br>
+                        <br>
+                        </p>
+                    </div><!--/intext-->
+                </div><!--/detail-->
+                <div class="poster">
+                    <img src="gakunaihousouharu2.png" alt="gakunaihousou" width="250px" hight="177px">
+                </div><!--/div id="poster"-->
+                <div class="clear"></div>
+                <br />
+                <br />
+            </div><!--/div content-->
+        </div><!--/leftspace-->
+    </div><!--div id="mainwrap"-->
+</div><!--din id="mainback"-->
+   
+    
+    
+    
+    <div class="push"><!--ここからフッター-->
+      <div id="footer-fixed">
+        <div id="footer-bk">
+          <div align="center">
+            <div id="footer">
+              <div id="footer1" style="float:left; width:210px">
+                  <a class="links" href="index.html">HOME</a>
+              </div><!--footer1-->
+              <div id="footer2" style="float:left; width:210px">
+                <a class="links" href="about.html">ABOUT</a><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="links" href="pressrelease.html">PressRelease</a><br>
+              </div><!--footer2-->
+              <div id="footer3" style="float:left; width:210px">
+                <a class="links" href="event.html">EVENT</a>
+              </div><!--footer3-->
+              <div id="footer4" style="float:left;width:210px">
+                <a class="links" href="contents.html">CONTENTS</a><br /><a class="links" href="https://www.youtube.com/user/MCSnomori/feed" target="_blank">MCSTube</a>&nbsp;&nbsp;&nbsp;<br>
+              </div><!--footer4-->
+              <div id="footer5" style="float:left;width:210px">
+                <a class="links" href="contact.html">CONTACT</a>
+              </div><!--footer5-->
+              <div id="footer6" style="float:left;width:210px">
+                <a class="links" href="link.html">LINK</a>
+              </div><!--footer6-->
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <div id="final-footer"> 
+                <br>
+                <p align="center">&copy; 2014 Media Creative Supporter</p>
+              </div><!--/final-footer-->
+            </div><!--footer-->
+          </div><!--footer align-->
+        </div><!--footer-bk-->
+      </div><!--footer-fixed-->  
+    </div><!--push-->  
+    <!--フッター終わり-->     
+</body>
+</html>
